@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fd68031-4b26-4e49-87b6-20b8f2dae323" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/AdditionalClasses/AgentPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/AdditionalClasses/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/Agents/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/Agents/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/AutoRunAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/Behaviours/Consumer/ConsumerFSM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/Behaviours/Consumer/ReceiveAnswers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/Behaviours/Consumer/ReceiveParallelBeh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/Behaviours/Consumer/SendQuantity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/Behaviours/Consumer/SendTopicName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/Behaviours/Consumer/WinnerBeh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/Behaviours/Producer/ReceiveTopicName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/Behaviours/Producer/SendPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/ConfigClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassWork/Services/TopicHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Additional/JadePatternProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Additional/TimeInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Agents/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Agents/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/CorrectBestTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/Professor/PrepareSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/Professor/ProfessorFMSBeh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/Professor/ReceiveParallelBeh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/Professor/ReceiveStudentsTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/Professor/SendProfessorTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/Professor/SendTopicName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/Student/CreateSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/Student/ReceiveDiapasons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/Student/ReceiveOffers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/Student/ReceiveProfessorTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/Student/ReceiveTopicName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/Student/SendBestSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/Student/SendBestTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/Student/SendDiapason.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Behaviours/Student/SendOffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Student1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Student2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Student3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Student4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/cfg1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/cfg2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/professor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TimeIntervalTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GoKoLl2H05M3L8NtXLrBKxUMpq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "B:/Java/MAS/HW_tasks/Task1",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.20229885",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="HomeWork.Behaviours.Student" />
+      <recent name="HomeWork.Behaviours.Professor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="B:\Java\MAS\HW_tasks\Task1\src\main\resources" />
+      <recent name="B:\Java\MAS\HW_tasks\Task1\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Start">
+    <configuration name="Boot" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jade.Boot" />
+      <module name="Task1" />
+      <option name="PROGRAM_PARAMETERS" value="-gui -services jade.core.messaging.TopicManagementService;jade.core.event.NotificationService; -agents Consumer:ClassWork.Agents.Consumer;Producer1:ClassWork.Agents.Producer;Producer2:ClassWork.Agents.Producer;" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassWork.Main" />
+      <module name="Task1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="jade.Boot" />
+      <module name="Task1" />
+      <option name="PROGRAM_PARAMETERS" value="-gui -services jade.core.messaging.TopicManagementService;jade.core.event.NotificationService; -agents Professor:HomeWork.Agents.Professor;Student1:HomeWork.Agents.Student;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeIntervalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TimeIntervalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeIntervalTest.parseXml" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TimeIntervalTest" />
+      <option name="METHOD_NAME" value="parseXml" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeIntervalTest.times" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TimeIntervalTest" />
+      <option name="METHOD_NAME" value="times" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Start" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.TimeIntervalTest" />
+      <item itemvalue="JUnit.TimeIntervalTest.parseXml" />
+      <item itemvalue="JUnit.TimeIntervalTest.times" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Start" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TimeIntervalTest" />
+        <item itemvalue="JUnit.TimeIntervalTest.times" />
+        <item itemvalue="JUnit.TimeIntervalTest.parseXml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fd68031-4b26-4e49-87b6-20b8f2dae323" name="Changes" comment="" />
+      <created>1667049673061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667049673061</updated>
+      <workItem from="1667049674288" duration="983000" />
+      <workItem from="1667060756800" duration="2324000" />
+      <workItem from="1667063106545" duration="26133000" />
+      <workItem from="1667221092233" duration="3676000" />
+      <workItem from="1667226256828" duration="197000" />
+      <workItem from="1667312992509" duration="12738000" />
+      <workItem from="1667756609422" duration="14250000" />
+      <workItem from="1667836697529" duration="1356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
